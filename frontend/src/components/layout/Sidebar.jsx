@@ -24,7 +24,6 @@ const NAV_ITEMS = [
     label: 'Clínico',
     items: [
       { to: '/certificados', icon: FileText,        label: 'Certificados',  modulo: 'certificados' },
-      { to: '/hce',          icon: ClipboardList,   label: 'HCE',           modulo: 'hce' },
     ],
   },
   {
